@@ -1,7 +1,7 @@
 {
   "name": "InfyB12OrchDemo",
   "projectId": "52b2b9c5-1c85-4895-a210-60067cddcf6f",
-  "description": "Publish to Orch",
+  "description": "Moved to Orch",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.21.0-preview]",
