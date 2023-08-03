@@ -128,7 +128,7 @@
       </sap:WorkflowViewStateService.ViewState>
     </ui:LogMessage>
     <ui:GetRobotCredential TimeoutMS="{x:Null}" AssetName="InfyB12OrderSystemCreds" CacheStrategy="None" DisplayName="Creds" FolderPath="Prateek  (Converted)" sap:VirtualizedContainerService.HintSize="433.6,143.2" sap2010:WorkflowViewState.IdRef="GetRobotCredential_1" Password="[AssetPassword]" Username="[AssetUername]" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="433.6,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[AssetUername]" />
+    <ui:LogMessage DisplayName="Log " sap:VirtualizedContainerService.HintSize="433.6,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[AssetUername]" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="433.6,142.4" sap2010:WorkflowViewState.IdRef="LogMessage_7" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[AssetPassword]" />
   </Sequence>
 </Activity>
